@@ -28,9 +28,9 @@ It consists of a set of scripts aiming to extract, load, transform and visualize
    git clone https://github.com/amintasvrp/ornitorrinco.git
 ```
 
-2. Run [Extract and Load](extract_and_load.ipynb) Notebook in Google Colab platform
+2. Run [Extract and Load](extract_and_load.ipynb) Notebook in Google Colab platform.
 
-3. Run [Transform and Visualize](transform_and_visualize.ipynb) Notebook in Databriks platform
+3. Run [Transform and Visualize](transform_and_visualize.ipynb) Notebook in Databriks platform (needed to render graphics).
 
 
 ## Contributing
