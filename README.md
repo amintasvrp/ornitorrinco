@@ -25,7 +25,7 @@ It consists of a set of scripts aiming to extract, load, transform and visualize
 1. Make a clone:
 
 ```sh
-   git clone https://github.com/amintasvrp/dollar-quote.git
+   git clone https://github.com/amintasvrp/ornitorrinco.git
 ```
 
 2. Run extract and load scripts in Google Colab platform
