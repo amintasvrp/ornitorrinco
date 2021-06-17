@@ -39,4 +39,4 @@ Make a pull request and make clear what changes have been made and which bugs pe
 
 ## Licenses
 
-- **MIT License** - [_Show details_](./LICENSE.txt)
+- **MIT License** - [_Show details_](./LICENSE)
