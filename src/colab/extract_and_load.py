@@ -1,6 +1,10 @@
 """ 
-Importing dependencies
+Developed in Colab. 
+High recommended run this script in this platform.
 """
+
+
+# Importing dependencies
 
 import json
 import boto3

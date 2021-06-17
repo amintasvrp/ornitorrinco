@@ -1,6 +1,10 @@
 """ 
-Importing dependencies
+Developed in Databriks. 
+High recommended run this script in this platform.
 """
+
+
+# Importing dependencies
 
 import csv
 from getpass import getpass
