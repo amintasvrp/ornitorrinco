@@ -32,8 +32,14 @@ It consists of a set of scripts aiming to extract, load, transform and visualize
 
 3. Run [Transform and Visualize](transform_and_visualize.ipynb) Notebook in Databriks platform (needed to render graphics).
 
+## Contributors
+- [Alecsander Simões](https://github.com/avscgm)
+- [Amanda Picoli](https://github.com/AmandaJPicoli)
+- [Amintas Victor](https://github.com/amintasvrp)
+- [Daniele Ferraro](https://github.com/DanieleFerraro)
+- [Iago Mendes](https://github.com/IagoMendes)
 
-## Contributing
+### **Contributing**
 
 Make a pull request and make clear what changes have been made and which bugs persist. Do not introduce bugs, be proactive!
 
